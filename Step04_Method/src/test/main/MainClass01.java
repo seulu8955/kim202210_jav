@@ -32,6 +32,6 @@ public class MainClass01 {
 		
 		//doSomethnig 메소드를 호출해보세요
 		
-		myo.doSomething(1, "김", c1);
+		myo.doSomething(1,"김",new Car());
 	}
 }
